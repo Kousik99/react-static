@@ -1,0 +1,22 @@
+.explorepane {
+    width : 70vw;
+    height: 110vh;
+    position: absolute;
+    display: block;
+    background-color: rgba(29, 37, 37, 0.418);
+    top : 30vh;
+    left :10vw;
+    border-radius: 2vh;
+}
+
+.explore-bgimg{
+    width: 98.7vw;
+    height: 150vh;
+    display: block;
+    position: absolute;
+}
+
+.exploretab{
+    margin-top: 10vh;
+    margin-left: 10vw;
+}

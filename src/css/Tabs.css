@@ -1,0 +1,18 @@
+.Tabspane {
+    width : 13vw;
+    height: 9vh; 
+    display: inline-block;  
+  }
+
+  .Tabspane:hover {
+    background-color: rgba(29, 37, 37, 0.418);
+    cursor: pointer;
+  }
+
+  .Tabspane span {
+    display: block;
+    margin-top: 1.75vh;
+    margin-left: 2vw;
+    font-size: 4vh;
+    color: aliceblue;
+  }

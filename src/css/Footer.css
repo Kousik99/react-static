@@ -1,0 +1,42 @@
+
+.footerpane {
+    width : 98.7vw;
+    height: 50vh;
+    position: absolute;
+    display: block;
+    background-color: rgba(29, 37, 37, 0.418);
+    top: 100vh;
+  }
+
+  .FooterTabspane{
+    width : 20vw;
+    height: 40vh; 
+    border-radius: 3vh;
+    display: block;  
+    float:left;
+    margin-left: 10vw;
+    margin-top:4vh;
+    background-color: rgb(224, 224, 224);
+  }
+
+  .FooterTabspane:hover {
+    background-color: whitesmoke;
+    cursor: pointer;
+  }
+
+  .FooterTabspane span {
+    display: block;
+    margin-top: 1.75vh;
+    margin-left: 1vw;
+    font-size: 4vh;
+    color: rgb(2, 17, 31);
+    text-align: center;
+  }
+
+  .FooterTabImg {
+    margin-left: 3vw;
+    margin-top: 5vh;
+    width : 15vw;
+    height: 20vh; 
+  
+  }

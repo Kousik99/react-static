@@ -1,0 +1,49 @@
+.blogpage {
+    width: 80vw;
+    min-height: 200vh;
+    background-color: whitesmoke;
+    z-index: 300;
+    display: block;
+    position: absolute;
+    margin-left: 10vw;
+    margin-top: 20vh;
+    font-size: 5vh;
+    border-radius:1vw;
+    box-shadow : 0.4vw 0vh;
+  }
+
+.blog-title span{
+  display: block;
+  text-align: center;
+  margin-top: 6vh;
+  font-size: 8vh;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.blog-bgimg{
+  width: 98.7vw;
+  min-height: 220vh;
+  display: block;
+  position: absolute;
+}
+
+.blog-text{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 3.7vh;
+  margin-left: 2vw;
+  margin-top: 6vh;
+  line-height:6vh;
+}
+
+.blog-img{
+  width: 40vw;
+  height: 50vh;
+  margin-left: 20vw;
+  margin-top: 5vh;
+}
+
+.blog-img-text{
+  font-size: 2.5vh;
+  text-align: center;
+}
