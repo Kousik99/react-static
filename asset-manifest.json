@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-static/static/css/main.80c18b08.css",
+    "main.js": "/react-static/static/js/main.8afc6b97.js",
+    "static/media/quote.jpg": "/react-static/static/media/quote.08b1af23c255a4293202.jpg",
+    "static/media/trekker.jpg": "/react-static/static/media/trekker.a7f4d5e8280ea387b0cb.jpg",
+    "index.html": "/react-static/index.html",
+    "main.80c18b08.css.map": "/react-static/static/css/main.80c18b08.css.map",
+    "main.8afc6b97.js.map": "/react-static/static/js/main.8afc6b97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80c18b08.css",
+    "static/js/main.8afc6b97.js"
+  ]
+}
